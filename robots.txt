@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kennessy-poultry-services.github.io/sitemap.xml
